@@ -1,0 +1,17 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    box-shadow: 6px 6px 10px gray;
+
+}
+.option_name{
+
+font-size: 16px;
+}
+.option_1{
+    float:none;
+    padding: 10px;
+    font-size: 26px;
+    box-shadow: 8px 8px 8px gray;
+}
